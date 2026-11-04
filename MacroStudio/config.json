@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "keys": [
+    {
+      "type": "hotkey",
+      "value": "CTRL+X"
+    },
+    {
+      "type": "hotkey",
+      "value": "CTRL+C"
+    },
+    {
+      "type": "hotkey",
+      "value": "CTRL+V"
+    },
+    {
+      "type": "hotkey",
+      "value": "ALT+F4"
+    },
+    {
+      "type": "key",
+      "value": "DELETE"
+    },
+    {
+      "type": "hotkey",
+      "value": "ALT+A"
+    }
+  ]
+}
